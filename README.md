@@ -1,0 +1,21 @@
+<!-- Popunder Ad -->
+<script type='text/javascript' src='//pl27558025.revenuecpmgate.com/30/4f/fb/304ffb1453c16ad857e43a0c98a2fec3.js'></script>
+
+<!-- Native Banner Ad -->
+<script async="async" data-cfasync="false" src="//pl27557878.revenuecpmgate.com/d4066cfa89e10a0fe02c8b4d51f65b75/invoke.js"></script>
+<div id="container-d4066cfa89e10a0fe02c8b4d51f65b75"></div>
+
+<!-- Social Bar Ad -->
+<script type='text/javascript' src='//pl27558132.revenuecpmgate.com/61/1d/7e/611d7e8c83490a2c36b68433e1a9ca9f.js'></script>
+
+<!-- Banner Ad -->
+<script type="text/javascript">
+  atOptions = {
+    'key' : '8d3c31d536f5a26e0a63941cb27ea394',
+    'format' : 'iframe',
+    'height' : 300,
+    'width' : 160,
+    'params' : {}
+  };
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/8d3c31d536f5a26e0a63941cb27ea394/invoke.js"></script>￼Enter
